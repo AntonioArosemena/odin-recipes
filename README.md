@@ -1,0 +1,1 @@
+This is the fist project of TheOdinProject course im taking, it's a basic webpage with html only so far. 24/6/24
