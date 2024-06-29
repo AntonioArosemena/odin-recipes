@@ -1,0 +1,30 @@
+* {
+  font-family: Monaco;
+}
+
+h1 {
+  font-family: fantasy;
+  background-color: yellow;
+}
+
+li {
+  font-family: monospace, Monaco, "Lucida Console";
+  color: darkorange;
+}
+
+a {
+  color:darkorange;
+}
+
+a:hover{
+  color: tomato;
+}
+
+
+
+
+
+
+
+
+
